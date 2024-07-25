@@ -7,19 +7,19 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/_fr85cb_a/",
     "classDetails": [
         {
-            "name": "SM",
+            "name": "SM상",
             "title": "SM상",
             "explain": "SM상이라네요. 축하합니다",
             "celeb": "라이즈, 에스파, 엔시티, 레드벨벳, 에프엑스, 엑소, 샤이니, 소녀시대, 슈퍼주니어, 동방신기, 보아"
         },
         {
-            "name": "YG",
+            "name": "YG상",
             "title": "YG상",
             "explain": "YG상이라네요. 축하합니다",
             "celeb": "베이비 몬스터, 블랙핑크, 빅뱅, 위너, 트레저"
         },
         {
-            "name": "JYP",
+            "name": "JYP상",
             "title": "JYP상",
             "explain": "SM상이라네요. 축하합니다",
             "celeb": "스트레이키즈, 트와이스, 엔믹스, 있지, 데이식스"
